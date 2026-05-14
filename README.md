@@ -1,0 +1,11 @@
+Exercicio - Aeroporto
+
+Criar exercicio de agregação sobre Aeroporto
+
+Aeronave
+Piloto
+Passageiro
+Aeroporto
+Desenhe o diagrama de classe dessas entidades, especificando as agregações entre elas. Cada classe deve conter pelo menos 5 características e ao menos 1 comportamento.
+Escreva o código em Java das classes
+Crie uma função main que instancie ao menos 2 instâncias de cada classe, preenchendo as agregações.
